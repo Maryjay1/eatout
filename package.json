@@ -2,7 +2,7 @@
   "name": "eatout",
   "private": true,
   "dependencies": {
-    "@mapbox/mapbox-gl-geocoder": "^4.4.2",
+    "@mapbox/mapbox-gl-geocoder": "^4.7.4",
     "@rails/webpacker": "^4.0.7",
     "bootstrap": "^4.3.1",
     "jquery": "^3.5.0",
